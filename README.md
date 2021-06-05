@@ -13,17 +13,17 @@ Datos diarios sobre la vacunación mundial contra la enfermedad COVID-19 causada
 * Software realizado para la cumplimentación de la Práctica 2.
 * Asignatura: Tipología y Ciclo de vida de los datos.
 * Máster: Ciencia de Datos.
-* Universidad: [Universidad Oberta de Catalunya](#https://www.uoc.edu/portal/ca/index.html)
+* Universidad: [Universidad Oberta de Catalunya](https://www.uoc.edu/portal/ca/index.html)
 * Profesora: Mireia Calvo González.
 * Versión: 1.0
 
 ## Dataset 
 Para visualizar en detalle el conjunto de datos seleccionado acceda al siguiente enlace:
-* [country_vaccinations.csv](#https://github.com/pabmorgal1/COVID19-World-Vaccination-Progress/data/country_vaccinations.csv)
+* [country_vaccinations.csv](./data/country_vaccinations.csv)
 
 ## Archivos de entrega 🛠️
-* PRAC2.rmd --> Contiene el código fuente del proyecto junto a la generación del entregable final PDF.
-* PRAC2.pdf --> Entregable final en formato PDF que recoge y expone todo el trabajo realizado en dicho proyecto.
+* [PRAC2.rmd](./code/PRAC2.rmd) --> Contiene el código fuente del proyecto junto a la generación del entregable final PDF.
+* [PRAC2.pdf](./code/PRAC2.pdf) --> Entregable final en formato PDF que recoge y expone todo el trabajo realizado en dicho proyecto.
 
 ## Licencia 📄
-Este proyecto está bajo la Licencia _________ - mira el archivo [LICENSE.md](LICENSE.md) para mayor información.
+Este proyecto está bajo la licencia [MIT License](http://opensource.org/licenses/mit-license.php) - mire el archivo [LICENSE.md](LICENSE.md) para mayor información.
