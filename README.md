@@ -1,5 +1,5 @@
 # COVID19-World-Vaccination-Progress
-Datos diarios sobre la vacunación mundial contra la enfermedad COVID-19 causada por el nuevo coronavirus SARS-CoV-2.
+Estudio de datos sobre la vacunación mundial contra la enfermedad COVID-19 causada por el nuevo coronavirus SARS-CoV-2, segregados por país para una gran parte de los países del mundo y mostrando los diferentes tipos de vacunas suministradas en los mismos.
 
 <p align="center">
   <img width="600" src="https://image.freepik.com/vector-gratis/fondo-vacuna-coronavirus-realista-jeringa-mano_52683-55650.jpg" alt="COVID-19 World Vaccination">
