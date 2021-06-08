@@ -22,8 +22,8 @@ Estudio de datos sobre la vacunación mundial contra la enfermedad COVID-19 caus
 * [country_vaccinations_clean.csv](./data/country_vaccinations_clean.csv) --> Conjunto de datos ya procesado sobre el que se ha realizado el análisis.
 
 ## Archivos de entrega 🛠️
-* [PRAC2.rmd](./code/PRAC2.rmd) --> Contiene el código fuente del proyecto junto a la generación del entregable final PDF.
-* [PRAC2.pdf](./code/PRAC2.pdf) --> Entregable final en formato PDF que recoge y expone todo el trabajo realizado en dicho proyecto.
+* [M2.851_PRAC2_dlugol_pmoraga_codigo.Rmd](./code/M2.851_PRAC2_dlugol_pmoraga_codigo.Rmd) --> Contiene el código fuente del proyecto desarrollado con R, en formato RMarkdown.
+* [M2.851_PRAC2_dlugol_pmoraga_doc_proyecto.pdf](./M2.851_PRAC2_dlugol_pmoraga_doc_proyecto.pdf) --> Entregable final en formato PDF que recoge y expone todo el trabajo realizado en dicho proyecto.
 
 ## Licencia 📄
 Este proyecto está bajo la licencia [MIT License](http://opensource.org/licenses/mit-license.php) - mire el archivo [LICENSE.md](LICENSE.md) para mayor información.
