@@ -23,7 +23,7 @@ Estudio de datos sobre la vacunación mundial contra la enfermedad COVID-19 caus
 
 ## Archivos de entrega 🛠️
 * [M2.851_PRAC2_dlugol_pmoraga_codigo.Rmd](./code/M2.851_PRAC2_dlugol_pmoraga_codigo.Rmd) --> Contiene el código fuente del proyecto desarrollado con R, en formato RMarkdown.
-* [M2.851_PRAC2_dlugol_pmoraga_doc_proyecto.pdf](./M2.851_PRAC2_dlugol_pmoraga_doc_proyecto.pdf) --> Entregable final en formato PDF que recoge y expone todo el trabajo realizado en dicho proyecto.
+* [M2.M2.851_PRAC2_dlugol_pmoraga_documentacion.pdf](./M2.851_PRAC2_dlugol_pmoraga_documentacion.pdf) --> Entregable final en formato PDF que recoge y expone todo el trabajo realizado en dicho proyecto.
 
 ## Licencia 📄
 Este proyecto está bajo la licencia [MIT License](http://opensource.org/licenses/mit-license.php) - mire el archivo [LICENSE.md](LICENSE.md) para mayor información.
