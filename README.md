@@ -18,11 +18,8 @@ Estudio de datos sobre la vacunación mundial contra la enfermedad COVID-19 caus
 * Versión: 1.0
 
 ## Dataset 
-Para visualizar en detalle el conjunto de datos bruto seleccionado acceda al siguiente enlace:
-* [country_vaccinations.csv](./data/country_vaccinations.csv)
-
-El conjunto de datos previo ya procesado y utilizado en los análisis del estudio se encuentra en el siguiente link:
-* [country_vaccinations_clean.csv](./data/country_vaccinations_clean.csv)
+* [country_vaccinations.csv](./data/country_vaccinations.csv) --> Conjunto de datos seleccionado para analizar.
+* [country_vaccinations_clean.csv](./data/country_vaccinations_clean.csv) --> Conjunto de datos ya procesado sobre el que se ha realizado el análisis.
 
 ## Archivos de entrega 🛠️
 * [PRAC2.rmd](./code/PRAC2.rmd) --> Contiene el código fuente del proyecto junto a la generación del entregable final PDF.
